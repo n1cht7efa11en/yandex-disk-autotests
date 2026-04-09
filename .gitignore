@@ -1,0 +1,16 @@
+# Токен — никогда не коммитить!
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.mypy_cache/
+*.egg-info/
+dist/
+build/
+
+# Отчёты
+reports/
+*.html
